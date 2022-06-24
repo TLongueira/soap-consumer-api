@@ -55,7 +55,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.something.PreMain</mainClass>
+					<mainClass>com.tlongueira.soapconsumer</mainClass>
 					<jvmArguments>
             --illegal-access=permit
         </jvmArguments>
